@@ -1,0 +1,10 @@
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\bin\Debug\Synapse X reimagined UI.exe.config
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\bin\Debug\Synapse X reimagined UI.exe
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\bin\Debug\Synapse X reimagined UI.pdb
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\obj\Debug\Synapse X reimagined UI.csproj.AssemblyReference.cache
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\obj\Debug\Synapse_X_reimagined_UI.Form1.resources
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\obj\Debug\Synapse_X_reimagined_UI.Properties.Resources.resources
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\obj\Debug\Synapse X reimagined UI.csproj.GenerateResource.cache
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\obj\Debug\Synapse X reimagined UI.csproj.CoreCompileInputs.cache
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\obj\Debug\Synapse X reimagined UI.exe
+C:\Users\Jannis Blauth\Documents\Synapse X reimagined UI\Synapse X reimagined UI\obj\Debug\Synapse X reimagined UI.pdb
